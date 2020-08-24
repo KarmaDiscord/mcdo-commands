@@ -4,34 +4,31 @@
 
 If u want to add the bot in your server [click here](https://discord.com/api/oauth2/authorize?client_id=738134696663187556&permissions=1081470054&scope=bot) !
 
-### Markdown
+### **The commands**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Fun**
+In fun commands you have :
+m/meme / Generate a random meme
+m/ascii Convert text to ascii
+m/say / Just a say command lol
+m/trigger / Triggered Avatar
 
-```markdown
-Syntax highlighted code block
+**Moderation**
+In mod commands you have :
+m/kick / Kick Someone
+m/ban / Ban someone
+m/clear / Clear messages (Max 100 and 14 Days)
 
-# Header 1
-## Header 2
-### Header 3
+**Utility**
+m/math / Calculate something
+m/ping / Bot's ping
+m/setprefix / Change the bot prefix
+m/invite Invite McDo Bot
 
-- Bulleted
-- List
+**Information**
+m/serverinfo for server informations
+m/userinfo for user informations
+m/botinfo for bot informations
+m/bans for bans informations
+m/emoji for emojis informations
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KarmaDiscord/mcdo-commands/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
