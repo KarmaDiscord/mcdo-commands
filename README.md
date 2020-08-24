@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to McDo Bot's commands website
 
-You can use the [editor on GitHub](https://github.com/KarmaDiscord/mcdo-commands/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## **First**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If u want to add the bot in your server [click here](https://discord.com/api/oauth2/authorize?client_id=738134696663187556&permissions=1081470054&scope=bot) !
 
 ### Markdown
 
